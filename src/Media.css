@@ -1,0 +1,195 @@
+
+
+/* first page mediaquery css starts*/
+@media screen and (max-width:768px){
+
+.butonndptag {
+text-align: center;
+
+
+}
+
+}
+/* first page mediaquery css endss*/
+
+
+
+/* second page mediaquery css starts*/
+@media screen and (max-width:768px){
+.sp-m-query{
+
+padding-top:2rem
+
+};
+}
+
+/* second page mediaquery css endss*/
+
+
+
+/* third page mediaquery css starts*/
+@media  (min-width:768px){
+
+.tprightsidetxt{
+    padding-top: 30%;
+    
+    
+    
+  
+  };
+
+.tprightsidetxt h1{
+    font-size: 4rem;
+   
+   }
+
+   .tprightsidetxt p{
+    font-size: 1rem;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   
+   }
+  
+
+}
+
+
+
+
+@media screen and (max-width:768px){
+
+    .tprightsidetxt{
+        padding-top: 10%;
+        padding-bottom: 15%;
+        
+        text-align: center
+      
+      };
+    }
+
+
+
+
+    
+@media screen and (max-width:768px){
+
+  .tpleftsidetxt{
+      padding-top: 10%;
+      padding-bottom: 15%;
+      
+      text-align: center
+    
+    };
+  }
+
+
+
+  @media  (min-width:768px){
+
+    .tpleftsidetxt{
+      padding-top: 25%;
+    /* padding-left: 20%; */
+    text-align: right;
+    padding-right: 2%;
+        
+        
+      
+      };
+    
+    .tpleftsidetxt h1{
+        font-size: 4rem;
+       
+       }
+    
+       .tpleftsidetxt p{
+        font-size: 1rem;
+        padding-top: 3%;
+        padding-bottom: 2%;
+       
+       }
+      
+    
+    }
+
+    
+/* third page mediaquery css endss*/
+
+
+/* fourth page mediaquery css starts*/
+
+
+
+
+/* fourth page mediaquery css endss*/
+
+
+/* fIFTH page mediaquery css starts*/
+@media  (min-width:768px){
+
+
+  .pagefifth{
+
+
+    text-align: right;
+  }
+}
+
+
+
+@media screen and (max-width:768px){
+  .pagefifth{
+
+
+    text-align: center;
+  }
+
+
+}
+
+/* fIFTH page mediaquery css starts*/
+
+
+/* sixth page mediaquery css starts*/
+@media screen and (max-width:768px){
+.content{
+
+  padding-top: 8%;
+  text-align: center;
+}
+
+}
+
+@media screen and (min-width:768px){
+
+  .content{
+
+    padding-top: 25%;
+    padding-bottom: 25%;
+  }
+
+}
+/* sixth page mediaquery css ends*/
+
+/* seventh page mediaquery css starts*/
+
+
+
+/* seventh page mediaquery css ends*/
+
+/* footer page mediaquery css starts*/
+
+@media screen and (max-width:768px){
+
+footer{
+
+  text-align: center;
+}
+}
+
+
+
+
+/* footer page mediaquery css ends*/
+
+
+

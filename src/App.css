@@ -1,0 +1,375 @@
+
+body{
+
+  contain: content;
+}
+.navbar-brand{
+  padding-left: 10px;
+}
+.nav-item {
+  padding-right: 40px;
+}
+
+#navigation{
+justify-content: end;
+text-align: center;
+
+}
+.navginput{
+
+  border-radius: 20px;
+  background-color:#d6c5b9;
+
+}
+
+.nav-barbg{
+background-image: url('images/header_bg.png');
+background-size: cover;
+
+}
+
+
+
+
+
+font-face{
+  font-family:BoldItalic;
+  src :url('./fonts/OpenSans-BoldItalic.ttf')
+  
+  }
+
+
+  font-face{
+    font-family:ExtraBold;
+    src :url('./fonts/OpenSans-ExtraBold.ttf')
+    
+    }
+
+
+    font-face{
+      font-family:ExtraBoldItalic;
+      src :url('./fonts/OpenSans-ExtraBoldItalic.ttf')
+      
+      }
+
+      font-face{
+        font-family:Italic;
+        src :url('./fonts/OpenSans-Italic.ttf')
+        
+        }
+
+        
+      font-face{
+        font-family:Light;
+        src :url('./fonts/OpenSans-Light.ttf')
+        
+        }
+        font-face{
+          font-family:LightItallic;
+          src :url('./fonts/OpenSans-LightItalic.ttf')
+          
+          }
+          font-face{
+            font-family:Regular;
+            src :url('./fonts/OpenSans-Regular.ttf')
+            
+            }
+            font-face{
+              font-family:Semibold;
+              src :url('./fonts/OpenSans-Semibold.ttf')
+              
+              }
+              font-face{
+                font-family:SemiboldItalic;
+                src :url('./fonts/OpenSans-SemiboldItalic.ttf')
+                
+                }
+              
+      
+
+
+  
+/*firstpage css starts*/
+
+.firstpagebg{
+  background-image: url('./images/banner.png');
+  background-repeat: no-repeat;
+
+  background-position: center;
+  
+  
+  }
+.htagndptag  h1{
+
+
+ color:rgb(228, 185, 106);
+ font-size: 4rem;
+ font-weight: bolder;
+}
+.htagndptag p{
+
+font-family: Italic;
+font-weight: bold;
+
+}
+.htagndptag{
+
+padding-top: 270px;
+padding-bottom: 50px;
+}
+.butonndptag button{
+  border-radius: 20px;
+  color: rgba(197, 21, 21, 0.445);
+  background-color: white;
+  padding:5px 15px 5px 15px;
+  
+  font-weight: bold;
+  border-color: white;
+}
+
+  
+
+.butonndptag p{
+font-family: Italic;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+
+
+/*firstpage css ends*/
+
+/*SECONDSpage css starts*/
+.secondPage{
+padding-top: 60px ;
+padding-bottom: 60px;
+
+}
+.sph1tagndptag h1{
+font-weight:bold;
+color: rgb(228, 185, 106);
+text-align: center;
+
+
+}
+
+.sph1tagndptag p{
+text-align: center;
+
+
+}
+.threedivs{
+
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+
+.forimages{
+width:100%
+}
+.threepicstxt{
+ padding: 22px 9px;
+  background-color:rgb(112 112 113);
+  color: white;
+  background-position: right;
+}
+
+.secondPage button{
+
+  text-align: center;
+  padding: 5px 10px 5px 10px  ;
+  border-radius: 15px;
+  background-color:rgb(112 112 113);
+  color:white;
+  border-color: rgb(112 112 113);
+  font-weight: bold;
+}
+/*secondpage css ends*/
+
+
+/*thirdpage css starts*/
+
+
+.part-1{
+
+background-color: rgb(112 112 113); ;
+color:white;
+background-position: center;
+
+
+}
+
+
+
+
+ 
+.tprightsidetxt button{
+ padding: 15px 70px 15px 70px;
+ background-color: rgb(228, 185, 106);
+ border-radius: 30px;
+ color: white;
+ border-color: rgb(228, 185, 106);
+ 
+ }
+
+
+ .part-2{
+
+background-color:rgb(228, 185, 106) ;
+color: white ; background-position: center;
+background-repeat: no-repeat;
+
+ }
+ 
+ .tpleftsidetxt button{
+  padding: 15px 70px 15px 70px;
+  background-color: rgb(247, 174, 38);
+  border-radius: 30px;
+  color: white;
+  border-color: rgb(228, 185, 106);
+  
+  }
+
+
+/*thirdpage css ends*/
+
+
+
+
+/*fourth page css starts*/
+.pagefour{
+
+  background-color:rgb(64 60 60);
+  background-position: center center ;
+  background-repeat:no-repeat;
+  
+  color:white
+}
+.fourpagetxt{
+
+
+  padding-top: 10%;
+  padding-bottom: 10%;;
+}
+ 
+.fourpagetxt p{
+
+color:#e5e3e1;
+}
+/*fourth page css ends*/
+
+
+/*fifthh page css starts*/
+
+.pagefifth{
+padding: 200px 0px 200px 0px;
+
+background-image: url('./images/banner.png');
+
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.pagefifth h1{
+
+color:rgb(228, 185, 106);
+font-size:4rem ;
+
+font-style: italic;
+
+
+}
+
+/*fifth page css ends*/
+
+/*sixth page css starts*/
+
+.content h3{
+
+  color:rgb(228, 185, 106) ;
+}
+
+.dotpic{
+
+  text-align: center;
+}
+.dotpic p{
+
+ font-family: Bold;
+ font-weight: bold;
+}
+
+
+/*sixth page css ends*/
+
+/*sEVETH page css starts*/
+
+.pageseven{
+  text-align: center;
+  background-color:#665841;
+  
+  
+  
+}
+.seventhptxt{
+padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.seventhptxt h1{
+
+  color:white
+}
+.seventhptxt input{
+
+padding-left: 30px;
+padding-right: 100px;
+padding-top: 5px;
+padding-bottom:5px;
+border-radius:20px;
+border-left: none;
+border-right: none;
+border-top: none;
+border-bottom: none;
+
+}
+.seventhptxt button{
+
+border-radius: 20px;
+position: relative;
+right:40px;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 12px;
+padding-right: 15px;
+background-color:rgb(85 81 78)  ;
+color: white;
+border-color:rgb(85 81 78) ;
+
+}
+
+
+/*sEVETH page css ends*/
+
+/*footer page css starts*/
+
+.pagefooter{
+
+  background-color: #665841;
+  color:white;
+
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+ul{
+  list-style: none;
+}
+
+.footerplist{
+
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+/*footer page css ends*/
+
